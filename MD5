@@ -1,7 +1,7 @@
-8ef289f03737b56353b993a7fa6da169 *DESCRIPTION
+6bd70e950adb52aa08b0c334c9b644ff *DESCRIPTION
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
 f585a876048dc409b858efc4355da528 *R/getDataPath.R
-87e172f50669684df81acace77090b24 *R/getKeelDatasetList.R
+15f1c34f883db85447542973f7d6f3c7 *R/getKeelDatasetList.R
 59f2ee82959f4c99e172ed3f814b228d *inst/CITATION
 6f039ff709d2bf250a60915987a3f629 *inst/datasets/abalone.dat
 9c228f849067a19617cd1ea8306cf29e *inst/datasets/abalone19.dat
@@ -9,6 +9,7 @@ f585a876048dc409b858efc4355da528 *R/getDataPath.R
 6480237c12aa021e140e23ef5231deb0 *inst/datasets/autoMPG6_test.dat
 c54388f79d8c17bf9178ff621e52690f *inst/datasets/autoMPG6_train.dat
 e9e9b2566c630bfd3d71a507337d35a9 *inst/datasets/banana.dat
+09f08ee5dd73e87f3f1f2a116be6e35b *inst/datasets/bolts.dat
 e91dd0d7c4644195bedf017b41da0ddf *inst/datasets/breast.dat
 27ffdf24ebb62ab4c8164ea11714fef2 *inst/datasets/bupa.dat
 cc3454190b00d8510d93aca5be998988 *inst/datasets/car.dat
@@ -37,9 +38,13 @@ b1481604946d969a2a0e1a682fcc77bc *inst/datasets/mv.dat
 206e31b97f7a3b4aae5e686345a4d0ba *inst/datasets/new-thyroid1.dat
 f9d81c9ade85748e88c75cf4482fda39 *inst/datasets/pima.dat
 ea4a1b3fdf97fb9af04bde8046c3a264 *inst/datasets/plastic.dat
+82b05a2aaecce9a4549cb371a1faee8f *inst/datasets/pollution.dat
 0cdebd8c15775b964825f925c895b70b *inst/datasets/shuttle.dat
+136f75aac9498c2fefbebb7e300a0070 *inst/datasets/solarFlare.dat
 a9e50a914572b670d78c9c4c5a6aff0a *inst/datasets/thyroid.dat
 3d1aa263b6caa326922355ca8ee657ef *inst/datasets/tic-tac-toe.dat
+2e644bc7884241bbab8876d6fa5addb3 *inst/datasets/transactions10k.dat
+5484d487c36c11ecb1657e5167c2100e *inst/datasets/weather.dat
 0b812b8d31ea632fc3b2d8fc9dca047b *inst/datasets/winequality-red-4.dat
 726a866b3d96f7827c1928d6e8c69a92 *inst/datasets/winequality-red.dat
 bc534cb40b12db5db540ab406d868254 *inst/datasets/winequality-white.dat
